@@ -21,8 +21,7 @@ Most existing CL approaches focus on finding solutions to preserve acquired know
 
 ## Method
 
-![alt text](https://github.com/perceivelab/cl-mah/blob/main/imgs/MHA.png?raw=true)
-
+![alt text](https://github.com/perceivelab/cl-mah/blob/main/imgs/MAH.png?raw=true)
 
 
 ## How to run
