@@ -3,7 +3,9 @@
 # Effects of Auxiliary Knowledge on Continual Learning
 Giovanni Bellitto, Matteo Pennisi, Simone Palazzo, Lorenzo Bonicelli, Matteo Boschini, Simone Calderara, Concetto Spampinato
 
-[![Conference](http://img.shields.io/badge/ICPR-2022-4b44ce.svg)](https://arxiv.org/pdf/2206.02577)
+[![Conference](http://img.shields.io/badge/ICPR-2022-4b44ce.svg)](https://ieeexplore.ieee.org/document/9956694)
+[![Paper](http://img.shields.io/badge/paper-arxiv.2206.02577-B31B1B.svg)](https://arxiv.org/pdf/2206.02577)
+
 
 </div>
 
