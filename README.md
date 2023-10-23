@@ -31,11 +31,13 @@ python utils/main.py --dataset future-seq-cifar10 --dataset_2 CIFAR100 --model d
 
 ## Citation
 ```
-@article{bellitto2022effects,
-  title={Effects of Auxiliary Knowledge on Continual Learning},
-  author={Bellitto, Giovanni and Pennisi, Matteo and Palazzo, Simone and Bonicelli, Lorenzo and Boschini, Matteo and Calderara, Simone and Spampinato, Concetto},
-  journal={arXiv preprint arXiv:2206.02577},
-  year={2022}
+@inproceedings{bellitto2022effects,
+  title={Effects of auxiliary knowledge on continual learning},
+  author={Bellitto, Giovanni and Pennisi, Matteo and Palazzo, Simone and Bonicelli, Lorenzo and Boschini, Matteo and Calderara, Simone},
+  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)},
+  pages={1357--1363},
+  year={2022},
+  organization={IEEE}
 }
 
 @inproceedings{buzzega2020dark,
